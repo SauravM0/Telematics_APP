@@ -74,4 +74,4 @@ class AIScreen extends StatelessWidget {
       ),
     );
   }
-} 
+}
