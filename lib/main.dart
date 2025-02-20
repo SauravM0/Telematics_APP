@@ -5,7 +5,7 @@ import 'config/firebase_config.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  // await FirebaseConfig.initializeFirebase();
+  await FirebaseConfig.initializeFirebase();
   runApp(const MyApp());
 }
 
