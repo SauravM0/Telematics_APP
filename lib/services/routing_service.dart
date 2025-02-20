@@ -4,7 +4,7 @@ import 'dart:convert';
 
 class RoutingService {
   // Get your API key from https://openrouteservice.org/
-  static const String _apiKey = '5b3ce3597851110001cf6248f7e038595f594a3caf28c8a77661c4cd'; // Free API key for testing
+  static const String _apiKey = 'API'; // Free API key for testing
   static const String _baseUrl = 'https://api.openrouteservice.org/v2/directions/driving-car';
 
   static Future<List<LatLng>> getRoute(LatLng start, LatLng end) async {
