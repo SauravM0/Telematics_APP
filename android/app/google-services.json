@@ -1,15 +1,16 @@
 {
   "project_info": {
     "project_number": "658357887443",
+    "firebase_url": "https://telematics-641f1-default-rtdb.firebaseio.com",
     "project_id": "telematics-641f1",
-    "storage_bucket": "telematics-641f1.appspot.com"
+    "storage_bucket": "telematics-641f1.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:658357887443:android:abcdef1234567890",
+        "mobilesdk_app_id": "1:658357887443:android:f4a74b8fe1c7e7e49b8f26",
         "android_client_info": {
-          "package_name": "com.example.pervendur25"
+          "package_name": "com.perseverance.pervendur25"
         }
       },
       "oauth_client": [],
