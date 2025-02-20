@@ -6,7 +6,7 @@ class FirebaseConfig {
       await Firebase.initializeApp(
         options: const FirebaseOptions(
           // Replace with your Firebase configuration values from google-services.json
-          apiKey: 'AIzaSyB8d9FirFkz3fyBn7m4WOCWP7vh834nXrQ',
+          apiKey: 'api',
           appId: '1:658357887443:android:abcdef1234567890',
           messagingSenderId: '658357887443',
           projectId: 'telematics-641f1',
