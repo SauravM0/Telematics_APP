@@ -7,9 +7,9 @@ class FirebaseConfig {
         options: const FirebaseOptions(
           // Replace with your Firebase configuration values from google-services.json
           apiKey: 'api',
-          appId: '1:658357887443:android:abcdef1234567890',
-          messagingSenderId: '658357887443',
-          projectId: 'telematics-641f1',
+          appId: '000',
+          messagingSenderId: '000',
+          projectId: '000',
         ),
       );
     } catch (e) {
