@@ -1,16 +1,15 @@
-# Telematics_APP
+# 🚗 Telematics App – Smart Vehicle Data Acquisition
 
-A new Flutter project.
+An Endurance Hackathon 2025 Project
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+📌 About the Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The Telematics App is an innovative solution designed for real-time vehicle data acquisition using an OBD-II dongle. It provides insightful analytics, tracking, and diagnostics, enhancing the driving experience with advanced telematics technology.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔹 Tech Stack: Flutter Dart Firebase OBD-II IoT Cloud Storage🔹 Key Features:✅ Live Vehicle Tracking 📍✅ Real-time Diagnostics ⚙️✅ Fuel Efficiency Monitoring ⛽✅ Driver Behavior Analysis 🚦✅ Secure Cloud Data Storage ☁️
+
+🏆 Features & Highlights
+
+🔥 Minimalist UI: Designed with a clean and intuitive user experience.🌍 Cloud-Integrated: Securely syncs data with Firebase.📊 Data Visualization: Interactive charts and insights.📡 OBD-II Support: Fetches real-time vehicle data.🔒 User Authentication: Secure login and profile management.
